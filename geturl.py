@@ -1,5 +1,5 @@
 #coding:utf-8
-
+# This code is to find all the web page containing a possible translation hypertext lien, used afterwards in crawler.py
 import requests
 import lxml
 import re
